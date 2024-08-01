@@ -1,1 +1,5 @@
-Pratham bot is a Gemini powered bot for inquiring information about pratham.org
+# Pratham bot
+ A Gemini powered bot for inquiring information about pratham.org
+
+ ## Requirements
+ - check `requirements.txt` file
